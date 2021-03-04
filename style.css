@@ -1,5 +1,26 @@
-* { box-sizing: border-box; } 
-body {margin: 0;}#idw2{padding:10px;font-size:12px;margin:25px 0 0 25px;max-width:40%;}#i1oa{width:0px;height:0px;padding:0px;border:0px;margin:0px;position:absolute;top:0px;left:-9999px;opacity:0;overflow:hidden;}@media (max-width: 992px){#idw2{max-width:50%;}}@media (max-width: 480px){#idw2{max-width:100%;margin:12px 12px 0 12px;}}
-div {
-    font-family: 'Roboto Mono', monospace;
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+body{
+  background-color:f3f3f3;
+}
+#iahh{
+  font-size:13px;
+  font-family:Roboto Mono, sans-serif;
+  margin:20px 20px 20px 20px;
+  max-width:38%;
+  background-color:rgba(251,251,251,0);
+}
+@media (max-width: 768px){
+  #iahh{
+    max-width:60%;
+  }
+}
+@media (max-width: 415px){
+  #iahh{
+    max-width:100%;
+  }
 }
